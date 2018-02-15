@@ -1,0 +1,3 @@
+tr4 ansible_host=tr4.westeurope.cloudapp.azure.com ansible_user=bence ansible_become=yes
+
+
